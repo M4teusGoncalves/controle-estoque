@@ -80,9 +80,21 @@ php artisan key:generate
 php artisan migrate
 ```
 
-7. Inicie o servidor:
+7. Execute para gerar as credenciais de acesso:
+```bash
+php artisan migrate --seed
+```
+
+8. Inicie o servidor:
 ```bash
 php artisan serve
+```
+
+## 🔑 Credenciais para Login
+
+Para acessar o sistema, use as seguintes credenciais:
+- **Usuário:** admin
+- **Senha:** admin
 ```
 
 ## 📝 Licença
@@ -91,6 +103,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📧 Contato
 
-Mateus Gonçalves do Nascimento- [mateusgn4@gmail.com](mailto:mateusgn4@gmail.com)
+Mateus Gonçalves do Nascimento - [mateusgn4@gmail.com](mailto:mateusgn4@gmail.com)
 
 Link do Projeto: [https://github.com/seu-usuario/controle-estoque](https://github.com/seu-usuario/controle-estoque)
