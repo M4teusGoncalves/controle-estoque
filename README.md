@@ -105,4 +105,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Mateus Gonçalves do Nascimento - [mateusgn4@gmail.com](mailto:mateusgn4@gmail.com)
 
-Link do Projeto: [https://github.com/seu-usuario/controle-estoque](https://github.com/seu-usuario/controle-estoque)
+Link do Projeto: [[https://github.com/seu-usuario/controle-estoque](https://github.com/M4teusGoncalves/controle-estoque)]([https://github.com/seu-usuario/controle-estoque](https://github.com/M4teusGoncalves/controle-estoque))
