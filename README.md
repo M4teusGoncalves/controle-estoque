@@ -55,7 +55,7 @@ Sistema web desenvolvido em Laravel 10.48.29 para gerenciamento de estoque, com 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/controle-estoque.git
+git clone https://github.com/M4teusGoncalves/controle-estoque.git
 ```
 
 2. Instale as dependências:
@@ -103,6 +103,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📧 Contato
 
-Mateus Gonçalves do Nascimento - [mateusgn4@gmail.com](mailto:mateusgn4@gmail.com)
+Mateus Gonçalves do Nascimento - mateusgn4@gmail.com
 
 Link do Projeto: https://github.com/M4teusGoncalves/controle-estoque
